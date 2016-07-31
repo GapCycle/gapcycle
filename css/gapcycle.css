@@ -216,5 +216,5 @@ article.feature-panel h2,article.feature-panel h2 a {
 }
 
 
-.icon-key dt { float: left; }
-.icon-key dd { margin-left: 1em; }
+.icon-key dt { float: left;  clear: both;  }
+.icon-key dd { margin-left: 1em; margin-bottom: 0.5em; }
