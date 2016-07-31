@@ -216,5 +216,6 @@ article.feature-panel h2,article.feature-panel h2 a {
 }
 
 
-.icon-key dt { float: left;  clear: both;  }
-.icon-key dd { margin-left: 1em; margin-bottom: 0.5em; }
+.icon-key { background-color: #fff; padding: 0.5em; }
+.icon-key dt { float: left;  clear: both; padding-right: 1em;   }
+.icon-key dd { color: #000; margin-left: 1em; margin-bottom: 0.5em; }
